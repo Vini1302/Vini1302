@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4D4DFF&size=35&center=true&vCenter=true&width=900&lines=Prazer!+Meu+nome+é+Marcos+Vinicius,;mas+prefiro+chamem+de+Vini😜😎!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4D4DFF&size=35&center=true&vCenter=true&width=900&lines=Prazer!+Meu+nome+é+Marcos+Vinicius,;mas+prefiro+me+chamem+de+Vini😜😎!;)](https://git.io/typing-svg)
 
 -😊I'm @MArcosVinicus<br>
 -📚Atualmente estou estudando programação no IOS(Instituto da Oportunidade Social)<br>
